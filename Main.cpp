@@ -1,9 +1,3 @@
-/* for future
-#include<fstream>
-ifstream in("data.txt");
-ifstream out("data.txt");
-*/
-
 #include<iostream>
 #include<fstream>
 #include<string>
