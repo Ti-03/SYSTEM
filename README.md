@@ -1,2 +1,6 @@
 # SYSTEM
 Simple system that has a login and register ability and simple store system which 100% made with C++
+
+
+It's still in the beta version, but it works very well ! 
+any question you can contact with me.
